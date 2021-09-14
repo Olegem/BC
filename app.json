@@ -1,0 +1,26 @@
+{
+  "id": "1b5408b3-adbe-49e4-be3d-720e79da6860",
+  "name": "Oleg Ext",
+  "publisher": "Oleg",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [ ],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://OlegExt.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
